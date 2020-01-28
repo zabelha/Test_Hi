@@ -1,0 +1,38 @@
+Javascript, jQuery, Ajax & JSON
+
+Nenhum website do mundo está completo sem algum Javascript no meio. Nesse exemplo, utilizamos a biblioteca jQuery - a mais utilizada no mundo - para manipular o DOM (estrutura) do HTML de forma dinâmica.
+Utilizamos, ainda, uma chamada AJAX que busca dados externamente.
+
+No exemplo, nosso site busca uma lista de pessoas em um site externo e, ao receber esses dados, os exibe na tela em formato de lista.
+
+1 - EXIBIR E-MAIL
+Você precisa fazer uma alteração nesse código para exibir além do nome, o e-mail do usuario. Dessa forma, a lista ficará assim:
+NOME DA PESSOA - E-MAIL
+
+
+2 - CONDICIONAL DE EXIBIÇÃO
+Você precisa alterar o script existente para que caso o nome da pessoa contenha "Patricia", esta pessoa não será exibida;
+
+
+3 - [EXTRA] - Utilização de outras bibliotecas
+O mundo Javascript possui dezenas de bibliotecas que facilitam e agilizam o trabalho do desenvolvedor. Um tipo comum de biblioteca são as de MVVM, tais como Angular, Knockout e React.
+Desenvolver essa mesma tela utilizando as práticas de MVVM de qualquer uma dessas bibliotecas é um modelo mais profissional, além de deixar seu código mais limpo e fácil de alterar.
+Nessa questão extra, convidamos você a tentar utilizar alguma dessas bibliotecas para exibir as mesmas informações dessa tela.
+
+4 - [EXTRA] - Aplique CSS nos resultados
+Convidamos você a utilizar sua criatividade e exercitar seus conhecimentos para dar uma cara mais bonita aos resultados exibidos. Você pode utilizar CSS, Javascript e Bootstrap da forma que desejar.
+Algumas sugestões:
+- Tela de "loading". Como a busca de resultados é assíncrona, inicialmente a tela está em branco e logo em seguida os resultados são exibidos. É comum nesse caso haver um ícone ou GIF de "espera" ou "carregando";
+- Alterar a exibição de resultados: Ao invés de exibir os usuários um-por-linha, você poderia utilizar tabelas ou como cards (cartões). Esse é um formato de layout muito comum, onde cada resultado (pessoa) é um quadrado separado, sendo exibidos lado-a-lado;
+Faça essas alterações diretamente no arquivo HTML, salve e envie junto com suas respostas.
+
+
+Referências:
+1 - Introdução ao Javascript:
+https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico
+
+2 - Introdução ao jQuery:
+http://www.linhadecodigo.com.br/artigo/2068/introducao-a-jquery.aspx
+
+3 - JQuery & Ajax
+https://www.devmedia.com.br/ajax-com-jquery-trabalhando-com-requisicoes-assincronas/37141

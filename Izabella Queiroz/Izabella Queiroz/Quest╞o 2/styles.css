@@ -1,0 +1,18 @@
+h1 {
+  color:#FF6347;
+}
+
+.titulo {
+  font-weight:bold;
+}
+
+.secundario {
+margin-top:20px;
+}
+
+.secundario .valor {
+ text-decoration: underline;
+}
+body {
+margin:20px;
+}

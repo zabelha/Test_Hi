@@ -1,0 +1,26 @@
+Introdução ao HTML
+
+O arquivo "index.html" contém um pequeno formulário com dois campos. 
+
+1 - DESABILITAR O CAMPO E-MAIL
+Você precisa desabilitar o segundo campo (e-mail), de forma que o usuário não consiga digitar nada no mesmo.
+Não é necessário utilização de CSS nem de Javascript para executar essa tarefa, no entanto, você pode aplicá-los se desejar.
+
+2 - ADICIONAR UM CAMPO DE SELEÇÃO (select)
+Adicionar um novo campo nesse formulário do tipo seleção única "dropdown" (select). 
+O título desse campo é "Fruta".
+Os possíveis valores são: Abacaxi, Morango, Banana, Manga
+
+Obs: Se desejar, você pode aplicar estilos (CSS) nessa página para deixar um visual mais bonito.
+
+Faça essas alterações diretamente no arquivo HTML, salve e envie junto com suas respostas.
+
+Referências:
+1 - Introdução ao HTML e CSS:
+https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css
+
+2 - Introdução de formulários em HTML
+https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Forms/Meu_primeiro_formulario_HTML
+
+3 - Guia do campo "input" dos formulários HTML:
+https://www.w3schools.com/tags/tag_input.asp

@@ -1,0 +1,25 @@
+HTML Mobile
+
+A maioria dos acessos web no mundo são via celular. Todos os sites devem estar capacitados para carregar o que é chamado de versão mobile - uma versão do site que é facilmente visível em celulares.
+
+O arquivo "index.html" contém um exemplo de página que funciona bem em computadores, mas ao visualizá-la em um celular, a leitura do texto e da imagem é dificultada, requerendo um "zoom" do usuário. 
+
+1 - HABILITE A PÁGINA PARA QUE SEJA MELHOR VISTA EM CELULARES
+Faça as alterações que julgar necessário para que a página possa ser melhor visualizada em celulares e telas pequenas;
+
+2 - UTILIZAÇÃO DO BOOTSTRAP
+O Bootstrap é uma famosa biblioteca frontend. Ela permite desenvolvimento acelerado de páginas, utilizando classes pré-definidas para padronizar o look-and-feel dos sites.
+Na página em questão, o Bootstrap já está carregado.
+No HTML, existem dois blocos de configuração (principal e secundario) um abaixo do outro. Cada um com 3 configurações.
+Utilizando as classes do Bootstrap, deixe os dois blocos lado-a-lado na tela.
+
+Não se esqueça de consultar a documentação do Bootstrap: https://getbootstrap.com/docs/3.3/css/#grid
+
+Faça essas alterações diretamente no arquivo HTML, salve e envie junto com suas respostas.
+
+1 - Introdução ao HTML Mobile & Responsivo
+https://www.w3schools.com/html/html_responsive.asp
+
+2 - Introdução e Setup do Bootstrap
+https://webdevacademy.com.br/tutoriais/bootstrap-como-comecar/
+

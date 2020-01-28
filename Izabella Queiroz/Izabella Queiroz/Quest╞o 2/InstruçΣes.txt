@@ -1,0 +1,13 @@
+HTML & CSS
+Nesta pergunta, você verá alguns conceitos básicos de CSS. Serão pedidas alterações simples. 
+
+
+1 - ALTERAR CSS EXISTENTE
+Altere a cor do título principal da página ("Tela de Configurações") para uma tonalidade de vermelho;
+
+2 - INCLUSÃO DE ESTILO EM CASCATA
+Cada item de configuração contém um título (em negrito) e um valor logo à sua frente. Eles estão divididos em dois blocos (principal e secundario). Faça alterações no CSS para que os textos de "valor" do bloco secundario sejam sublinhados;
+
+Referências
+1 - Introdução ao HTML e CSS:
+https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css

@@ -1,0 +1,25 @@
+[EXTRA] - Javascript - Manipulação da Página
+
+A página desse exercício representa uma página de produto de um e-commerce. Será necessário fazer algumas alterações nessa página SEM alterar o arquivo .html;
+
+1 - ADICIONAR TRECHO HTML 
+É muito comum a necessidade de manipular códigos de uma página sem ter acesso ao HTML da mesma. A manipulação pode ser também o que chamamos de injeção de código: adicionar um trecho HTML a uma página através de Javascript, sem tocar no HTML original.
+Nesse exercício, você deverá adicionar o código HTML abaixo, logo após o título "Avaliações do produto" através de Javascript.
+<div class="yv-reviews"></div>
+IMPORTANTE: Você não pode fazer nenhuma edição no arquivo .html diretamente.
+
+
+2 - ADICIONAR SELO DE SEGURANÇA
+Selos de segurança são bem comuns no e-commerce. O mais conhecido é o selo do EBit. 
+A Yourviews também possui seu próprio selo. A ideia desse exercício é inserir esse selo sem tocar no HTML, utilizando apenas manipulação via Javascript; O código do selo, que deverá ser inserido, é o seguinte:
+<img src='//service.yourviews.com.br/Image/gacadeb7-b221-4bf2-a8b8-1fb9da3de96d/Footer.jpg' title='Loja Confiável' alt='Loja Confiável' style='width: 38px; height: 41px;'/>
+IMPORTANTE: o selo deverá ser inserido logo após o selo do "ebit" e antes do selo do "moip"
+IMPORTANTE: Você não pode fazer nenhuma edição no arquivo .html diretamente.
+
+
+REFERÊNCIAS:
+1 - O código abaixo demonstra um exemplo de manipulação via DOM. Você provavelmente utilizará algo similar
+https://codepen.io/isaque/pen/mKeVmK
+2 - Mais sobre manipulação de DOM 
+http://www.linhadecodigo.com.br/artigo/3482/manipulando-elementos-de-uma-pagina-com-ajax-e-jquery.aspx
+
